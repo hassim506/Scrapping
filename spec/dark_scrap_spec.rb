@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative 'dark_scrap' #  chemin vers mon fichier de scraping
 
 RSpec.describe 'Scrap CoinMarketCap' do
